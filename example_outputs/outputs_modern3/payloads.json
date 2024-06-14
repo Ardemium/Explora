@@ -1,0 +1,12 @@
+
+{
+  "min_buffer_size": 40,
+  "max_buffer_size": 48,
+  "tokens": [
+    "z",
+    "\n",
+    "\r",
+    "\t",
+    "\b"
+  ]
+}

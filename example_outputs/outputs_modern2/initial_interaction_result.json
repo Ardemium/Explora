@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "input": "",
+        "output": {
+            "stdout": "What's the secret ?\n\n\nkSee u soon!",
+            "stderr": "",
+            "returncode": 0,
+            "pid": 14932,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern2\\modern2.exe"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "input": "Hello, World!",
+        "output": {
+            "stdout": "What's the secret ?\nHello, World!\n\nSee u soon!",
+            "stderr": "",
+            "returncode": 0,
+            "pid": 8884,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern2\\modern2.exe"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "input": "Input",
+        "output": {
+            "stdout": "What's the secret ?\nNOT ALLOWED!",
+            "stderr": "",
+            "returncode": 1,
+            "pid": 13108,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern2\\modern2.exe"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "input": "Test",
+        "output": {
+            "stdout": "What's the secret ?\nNOT ALLOWED!",
+            "stderr": "",
+            "returncode": 1,
+            "pid": 5040,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern2\\modern2.exe"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "input": "stdin",
+        "output": {
+            "stdout": "What's the secret ?\nNOT ALLOWED!",
+            "stderr": "",
+            "returncode": 1,
+            "pid": 8160,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern2\\modern2.exe"
+            ]
+        }
+    }
+]

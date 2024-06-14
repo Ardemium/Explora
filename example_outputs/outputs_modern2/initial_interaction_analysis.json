@@ -1,0 +1,89 @@
+{
+    "interaction_analyses": [
+        {
+            "id": 1,
+            "input": "",
+            "input_length": 0,
+            "output_length": 34,
+            "input_reflected": true,
+            "stdout": "What's the secret ?\n\n\nkSee u soon!",
+            "stderr": "",
+            "returncode": 0,
+            "pid": 14932,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern2\\modern2.exe"
+            ],
+            "flows": []
+        },
+        {
+            "id": 2,
+            "input": "Hello, World!",
+            "input_length": 13,
+            "output_length": 46,
+            "input_reflected": true,
+            "stdout": "What's the secret ?\nHello, World!\n\nSee u soon!",
+            "stderr": "",
+            "returncode": 0,
+            "pid": 8884,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern2\\modern2.exe"
+            ],
+            "flows": []
+        },
+        {
+            "id": 3,
+            "input": "Input",
+            "input_length": 5,
+            "output_length": 32,
+            "input_reflected": false,
+            "stdout": "What's the secret ?\nNOT ALLOWED!",
+            "stderr": "",
+            "returncode": 1,
+            "pid": 13108,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern2\\modern2.exe"
+            ],
+            "flows": [
+                2
+            ]
+        },
+        {
+            "id": 4,
+            "input": "Test",
+            "input_length": 4,
+            "output_length": 32,
+            "input_reflected": false,
+            "stdout": "What's the secret ?\nNOT ALLOWED!",
+            "stderr": "",
+            "returncode": 1,
+            "pid": 5040,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern2\\modern2.exe"
+            ],
+            "flows": [
+                2
+            ]
+        },
+        {
+            "id": 5,
+            "input": "stdin",
+            "input_length": 5,
+            "output_length": 32,
+            "input_reflected": false,
+            "stdout": "What's the secret ?\nNOT ALLOWED!",
+            "stderr": "",
+            "returncode": 1,
+            "pid": 8160,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern2\\modern2.exe"
+            ],
+            "flows": [
+                2
+            ]
+        }
+    ],
+    "hardcoded_strings": [
+        "What\\'s the secret ?",
+        "NOT ALLOWED!"
+    ]
+}

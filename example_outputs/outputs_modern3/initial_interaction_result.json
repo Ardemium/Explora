@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "input": "",
+        "output": {
+            "stdout": "What's your name ?",
+            "stderr": "",
+            "returncode": 0,
+            "pid": 2796,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern3\\modern3.exe"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "input": "Hello, World!",
+        "output": {
+            "stdout": "What's your name ?",
+            "stderr": "",
+            "returncode": 0,
+            "pid": 25216,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern3\\modern3.exe"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "input": "Input",
+        "output": {
+            "stdout": "What's your name ?",
+            "stderr": "",
+            "returncode": 0,
+            "pid": 7364,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern3\\modern3.exe"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "input": "Test",
+        "output": {
+            "stdout": "What's your name ?",
+            "stderr": "",
+            "returncode": 0,
+            "pid": 21868,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern3\\modern3.exe"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "input": "stdin",
+        "output": {
+            "stdout": "What's your name ?",
+            "stderr": "",
+            "returncode": 0,
+            "pid": 9864,
+            "args": [
+                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern3\\modern3.exe"
+            ]
+        }
+    }
+]
