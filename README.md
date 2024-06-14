@@ -8,7 +8,7 @@ _If this auto write-up generator feature is added to IDA Pro in the future, I wa
 
 ## Purpose
 
-Explora is the final project for my Minor in Software Reversing and Exploitation. It serves as a proof of concept for a new fuzzing technique `AI-Powered Fuzzing` powered by AI analysis. The script, `main.py`, automates the multi-stage process of interacting with a binary executable, analyzing its behavior, and extracting meaningful insights and flags, typically used for Capture The Flag (CTF) challenges. It aims to streamline the workflow of binary interaction, decompilation, fuzzing, and analysis, culminating in the generation of a detailed write-up of the entire process. Check the `example_outputs` for example results produced bu this tool using the `targets`.
+Explora is the final project for my Minor in Software Reversing and Exploitation. It serves as a proof of concept for a new fuzzing technique `AI-Powered Fuzzing` powered by AI analysis. The script, `main.py`, automates the multi-stage process of interacting with a binary executable, analyzing its behavior, and extracting meaningful insights and flags, typically used for Capture The Flag (CTF) challenges. It aims to streamline the workflow of binary interaction, decompilation, fuzzing, and analysis, culminating in the generation of a detailed write-up of the entire process. Check the `example_outputs` for example results produced by this tool using the `targets`.
 
 ![alt text](img/explora.webp)
 
