@@ -11,7 +11,7 @@
             "returncode": 0,
             "pid": 2796,
             "args": [
-                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern3\\modern3.exe"
+                "C:\\Users\\explora\\targets\\modern2\\modern2.exe"
             ],
             "flows": []
         },
@@ -26,7 +26,7 @@
             "returncode": 0,
             "pid": 25216,
             "args": [
-                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern3\\modern3.exe"
+                "C:\\Users\\explora\\targets\\modern2\\modern2.exe"
             ],
             "flows": []
         },
@@ -41,7 +41,7 @@
             "returncode": 0,
             "pid": 7364,
             "args": [
-                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern3\\modern3.exe"
+                "C:\\Users\\explora\\targets\\modern2\\modern2.exe"
             ],
             "flows": []
         },
@@ -56,7 +56,7 @@
             "returncode": 0,
             "pid": 21868,
             "args": [
-                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern3\\modern3.exe"
+                "C:\\Users\\explora\\targets\\modern2\\modern2.exe"
             ],
             "flows": []
         },
@@ -71,7 +71,7 @@
             "returncode": 0,
             "pid": 9864,
             "args": [
-                "C:\\Users\\Arthu\\Dev\\Python\\srea_mvp\\targets\\modern3\\modern3.exe"
+                "C:\\Users\\explora\\targets\\modern2\\modern2.exe"
             ],
             "flows": []
         }

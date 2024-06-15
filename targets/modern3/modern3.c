@@ -1,6 +1,6 @@
 /**
  *  Generator: vscode-decompiler@0.1.0 (https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-decompiler)
- *  Target:    c:\Users\Arthu\Dev\Python\toolkit\modern3.exe
+ *  Target:    "C:\\Users\\explora\\targets\\modern2\\modern2.exe"
  **/
 
 /* Function: FUN_00401180 */

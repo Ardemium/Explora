@@ -1,6 +1,6 @@
 /**
  *  Generator: vscode-decompiler@0.1.0 (https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-decompiler)
- *  Target:    c:\Users\Arthu\Dev\Python\srea_mvp\targets\modern2\modern2.exe
+ *  Target:    "C:\\Users\\explora\\targets\\modern2\\modern2.exe"
  **/
 
 /* Function: __mingw_invalidParameterHandler */
